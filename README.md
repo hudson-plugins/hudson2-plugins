@@ -1,4 +1,4 @@
 hudson2-plugins
 ===============
 
-All Plugins for Hudson 2 release - https://github.com/hudson2-plugins
+<h4>All Plugins specific to Hudson 2.x releases  are available at https://github.com/hudson2-plugins.</h4>
